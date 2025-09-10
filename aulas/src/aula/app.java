@@ -7,5 +7,4 @@ String autor;
 String isbn;
 double preco;
 String datapub;
-
 }
