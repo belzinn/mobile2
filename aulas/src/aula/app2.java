@@ -12,6 +12,6 @@ livro.preco = 39.90;
 livro.autor = "j.r.r. tolkien";
 livro.datapub = "1954";
 
-
+livro.dadosLivros();
 }
 }
